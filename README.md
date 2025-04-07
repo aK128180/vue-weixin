@@ -1,8 +1,6 @@
 ### 通知
 
-项目vue+vuex版本已更新版本，只接口图片不加载，不影响初学者学习vue。
-
-### 更新说明
+项目vue+vuex版本已更新版本，只接口图片不加载，不影响
 ```
 "vue": "^2.5.2",
 
@@ -174,41 +172,6 @@ npm run start (访问本地，运行后访问 http://localhost:10022)
 │   │   │   │   │   ├── newmessage.vue           // 新消息提醒
 │   │   │   │   │   └── privacy.vue              // 隐私
 │   │   │   │   └── settings.vue                 // 设置
-│   │   │   └── wallet
-│   │   │       └── wallet.vue                   // 我的钱包
-│   │   ├── search
-│   │       └── search.vue                       // 搜索     
-│   ├── images
-│   ├── main.js                                  // 程序入口文件，加载各种公共组件
-│   ├── router
-│   │   └── router.js                           // 所有页面路由控制中心
-│   ├── service
-│   │   ├── data
-│   │   │   ├── album.js                        // 个人相册
-│   │   │   ├── burse.js                        // 钱包数据
-│   │   │   ├── chatmore.js
-│   │   │   ├── collect.js                     // 我的收藏
-│   │   │   ├── contacts.js                    // 联系人列表数据
-│   │   │   ├── dialoglist.js                  // 对话列表
-│   │   │   ├── friendcircle.js                // 朋友圈数据
-│   │   │   ├── groupchat.js                   // 群聊数据
-│   │   │   ├── login.js                       // 个人用户信息
-│   │   │   ├── search.js                      // 搜索的分类
-│   │   │   └── userword.js
-│   │   └── getData.js                         // 数据交互统一调配
-│   ├── style
-│   │   ├── public.scss                        // 公共样式
-│   │   └── swiper.min.css
-│   └── vuex                                   // vuex的状态管理
-│       ├── action.js                          // 配置根actions
-│       ├── index.js                           // 引用vuex，创建store
-│       ├── mutation-types.js                  // 定义常量muations名
-│       └── mutation.js                        // 配置根mutations
-└── tree.md
-
-36 directories, 133 files
-
-```
 
 
 
